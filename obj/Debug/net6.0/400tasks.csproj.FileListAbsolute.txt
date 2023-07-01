@@ -1,0 +1,15 @@
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\bin\Debug\net6.0\400tasks.exe
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\bin\Debug\net6.0\400tasks.deps.json
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\bin\Debug\net6.0\400tasks.runtimeconfig.json
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\bin\Debug\net6.0\400tasks.dll
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\bin\Debug\net6.0\400tasks.pdb
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.csproj.AssemblyReference.cache
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.AssemblyInfoInputs.cache
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.AssemblyInfo.cs
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.csproj.CoreCompileInputs.cache
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.dll
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\refint\400tasks.dll
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.pdb
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\400tasks.genruntimeconfig.cache
+C:\Users\AlexTheOne\Desktop\Task19\400tasks\obj\Debug\net6.0\ref\400tasks.dll
